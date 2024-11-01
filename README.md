@@ -15,4 +15,4 @@
 ヽ(♡‿♡)ノ	 Моя статистика:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dorian-ops)](https://github.com/Dorian-ops/github-profile-trophy)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dorian-ops)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dorian-ops)
