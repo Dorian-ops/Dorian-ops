@@ -9,7 +9,7 @@ OᗷO ᗰᑎE (>⩊<):
 Мой стек: 
 
 ![Java](https://img.shields.io/badge/-Java-FF8C00)
-![Spring](https://img.shields.io/badge/-Spring-#7FFF00)
+![Spring](https://img.shields.io/badge/-Spring-7FFF00)
 
 Моя статистика:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dorian-ops)](https://github.com/Dorian-ops/github-profile-trophy)
