@@ -12,9 +12,6 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-7FFF00)
 
-![C#](https://img.shields.io/badge/-C#-1E90FF)
-
-
 ヽ(♡‿♡)ノ	 Моя статистика:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dorian-ops)](https://github.com/Dorian-ops/github-profile-trophy)
