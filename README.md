@@ -27,4 +27,4 @@
 Если у вас есть вопросы или вы хотите пообщаться, не стесняйтесь писать мне!
 
 [Мой GitHub](https://github.com/Dorian-ops)
-[Мой TG]([https://github.com/Dorian-ops](https://t.me/MifixF))
+[Мой TG](https://t.me/MifixF)
