@@ -8,8 +8,7 @@
 
 ## (￣▽￣*) Мой стек технологий:
 
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
-![Spring](https://spring.io/images/spring-logo.png)
+!img src="https://img.shields.io/badge/JAVA - 808080?style=for-the-badge&logo=spring&logoColor=#00FF7F"/
 
 ## ヽ(♡‿♡)ノ Моя статистика:
 
