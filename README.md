@@ -8,14 +8,11 @@
 
 ## (￣▽￣*) Мой стек технологий:
 
-<img src="https://img.shields.io/badge/SPRING-DCDCDC?style=for-the-badge&logo=spring&logoColor=000000"/>
-<img src="https://img.shields.io/badge/SpigotMC-DCDCDC?style=for-the-badge&logo=spigotmc&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Hibernate-DCDCDC?style=for-the-badge&logo=hibernate&logoColor=000000"/>
+<img src="https://img.shields.io/badge/SPRING-DCDCDC?style=for-the-badge&logo=spring&logoColor=000000"/> <img src="https://img.shields.io/badge/SpigotMC-DCDCDC?style=for-the-badge&logo=spigotmc&logoColor=000000"/> <img src="https://img.shields.io/badge/Hibernate-DCDCDC?style=for-the-badge&logo=hibernate&logoColor=000000"/>
 
 <img src="https://img.shields.io/badge/.NET-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/PostgreSql-DCDCDC?style=for-the-badge&logo=postgresqlc&logoColor=000000"/>
-<img src="https://img.shields.io/badge/MySql-DCDCDC?style=for-the-badge&logo=mysql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PostgreSql-DCDCDC?style=for-the-badge&logo=postgresqlc&logoColor=000000"/> <img src="https://img.shields.io/badge/MySql-DCDCDC?style=for-the-badge&logo=mysql&logoColor=000000"/>
 
 
 ## ヽ(♡‿♡)ノ Моя статистика:
