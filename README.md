@@ -8,7 +8,7 @@
 
 ## (￣▽￣*) Мой стек технологий:
 
-<img src="https://img.shields.io/badge/SPRING - DCDCDC?style=for-the-badge&logo=spring&logoColor=000000"/>
+<img src="https://img.shields.io/badge/SPRING-DCDCDC?style=for-the-badge&logo=spring&logoColor=000000"/>
 
 ## ヽ(♡‿♡)ノ Моя статистика:
 
