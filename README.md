@@ -1,19 +1,6 @@
 # Привет! (＞⩊＜) OᗷO ᗰᑎE:
 
-Я начинающий Java Developer. Мой путь в IT начался с онлайн-школы 1T Start, которую я успешно закончил, получив базовые знания C#. 
-
-После этого меня заинтересовали плагины для Minecraft, и я начал писать на Java, создав множество различных плагинов. Затем я увлекся Spring Framework и начал его изучение!
-
-Сейчас я продолжаю изучать Spring и Java, а также стараюсь учить языки: ɸᴩᴀнцузᴋий и ᴀнᴦᴧийᴄᴋий.
-
-## (￣▽￣*) Мой стек технологий:
-
-<img src="https://img.shields.io/badge/SPRING-DCDCDC?style=for-the-badge&logo=spring&logoColor=000000"/> <img src="https://img.shields.io/badge/SpigotMC-DCDCDC?style=for-the-badge&logo=spigotmc&logoColor=000000"/> <img src="https://img.shields.io/badge/Hibernate-DCDCDC?style=for-the-badge&logo=hibernate&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/.NET-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/PostgreSql-DCDCDC?style=for-the-badge&logo=postgresqlc&logoColor=000000"/> <img src="https://img.shields.io/badge/MySql-DCDCDC?style=for-the-badge&logo=mysql&logoColor=000000"/>
-
+Я начинающий Специалист в ИБ. Люблю Linux... Я ОБАЖАЮ LINUX особенно Kali 
 
 ## ヽ(♡‿♡)ノ Моя статистика:
 
