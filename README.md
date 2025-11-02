@@ -1,12 +1,48 @@
 # Привет! (＞⩊＜) OᗷO ᗰᑎE:
 
 Я начинающий Специалист в ИБ. Люблю Linux... Я ОБАЖАЮ LINUX особенно Kali 
+Конечно! Я помогу разбить ваши навыки на классификации и добавлю смежные навыки для каждого из них. Вот пример, как это можно оформить:
+
+### Разработка программного обеспечения
+[![Programming](https://skillicons.dev/icons?i=java,cs,cpp,py&perline=4)](https://skillicons.dev)
+- **Основные языки:**
+  - Java
+  - C#
+  - C++
+  - Python
+
+### Базы данных
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres&perline=2)](https://skillicons.dev)
+- **Системы управления базами данных:**
+  - MySQL
+  - PostgreSQL
+- **Смежные навыки:**
+  - SQLite
+  - Redis
+
+### Безопасность и администрирование
+[![Security](https://skillicons.dev/icons?i=kali&perline=1)](https://skillicons.dev)
+- **Инструменты:**
+  - Kali Linux
+- **Смежные навыки:**
+  - Penetration Testing
+  - Ethical Hacking
+  - Network Security
+
+### Инструменты и среды разработки
+[![Development Tools](https://skillicons.dev/icons?i=clion&perline=1)](https://skillicons.dev)
+- **IDE:**
+  - CLion
+- **Смежные навыки:**
+  - IntelliJ IDEA
+  - Visual Studio
+  - VS code
+
+Вы можете настроить это под свои нужды, добавляя или убирая навыки в зависимости от ваших компетенций.
 
 ## ヽ(♡‿♡)ノ Моя статистика:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dorian-ops)](https://github.com/Dorian-ops/github-profile-trophy)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dorian-ops)
-
 ![Codewars](https://github.r2v.ch/codewars?user=Dorian-ops)
 
 ## Связаться со мной
