@@ -39,8 +39,6 @@
   - VS code
 
 ## ヽ(♡‿♡)ノ Моя статистика:
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dorian-ops)
 ![Codewars](https://github.r2v.ch/codewars?user=Dorian-ops)
 
 ## Связаться со мной
