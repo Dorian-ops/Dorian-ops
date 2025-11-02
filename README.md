@@ -38,8 +38,6 @@
   - Visual Studio
   - VS code
 
-Вы можете настроить это под свои нужды, добавляя или убирая навыки в зависимости от ваших компетенций.
-
 ## ヽ(♡‿♡)ノ Моя статистика:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dorian-ops)
